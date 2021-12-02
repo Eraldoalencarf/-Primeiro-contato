@@ -1,0 +1,15 @@
+C:\Users\eraldo\Desktop\Projetos C#\Cap6\obj\Debug\net6.0\Cap6.csproj.AssemblyReference.cache
+C:\Users\eraldo\Desktop\Projetos C#\Cap6\obj\Debug\net6.0\Cap6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eraldo\Desktop\Projetos C#\Cap6\obj\Debug\net6.0\Cap6.AssemblyInfoInputs.cache
+C:\Users\eraldo\Desktop\Projetos C#\Cap6\obj\Debug\net6.0\Cap6.AssemblyInfo.cs
+C:\Users\eraldo\Desktop\Projetos C#\Cap6\obj\Debug\net6.0\Cap6.csproj.CoreCompileInputs.cache
+C:\Users\eraldo\Desktop\Projetos C#\Cap6\bin\Debug\net6.0\Cap6.exe
+C:\Users\eraldo\Desktop\Projetos C#\Cap6\bin\Debug\net6.0\Cap6.deps.json
+C:\Users\eraldo\Desktop\Projetos C#\Cap6\bin\Debug\net6.0\Cap6.runtimeconfig.json
+C:\Users\eraldo\Desktop\Projetos C#\Cap6\bin\Debug\net6.0\Cap6.dll
+C:\Users\eraldo\Desktop\Projetos C#\Cap6\bin\Debug\net6.0\ref\Cap6.dll
+C:\Users\eraldo\Desktop\Projetos C#\Cap6\bin\Debug\net6.0\Cap6.pdb
+C:\Users\eraldo\Desktop\Projetos C#\Cap6\obj\Debug\net6.0\Cap6.dll
+C:\Users\eraldo\Desktop\Projetos C#\Cap6\obj\Debug\net6.0\ref\Cap6.dll
+C:\Users\eraldo\Desktop\Projetos C#\Cap6\obj\Debug\net6.0\Cap6.pdb
+C:\Users\eraldo\Desktop\Projetos C#\Cap6\obj\Debug\net6.0\Cap6.genruntimeconfig.cache
