@@ -27,6 +27,7 @@ namespace Cap6
             {
                 if (vet[i] != null)
                 Console.WriteLine($"[{i}] {vet[i]}");
+                Console.Read();
             }
 
         }
